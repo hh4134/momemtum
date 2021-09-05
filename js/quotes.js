@@ -1,9 +1,5 @@
 const quotes = [
 {
-    quote: "simple is best",
-    author: "hhjung",
-},
-{
     quote: "It is kind of fun to do the impossible.",
     author: "Walt Disney",
 },
